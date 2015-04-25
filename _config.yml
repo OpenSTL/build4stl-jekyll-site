@@ -1,0 +1,13 @@
+# Site settings
+title: Build for STL
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  lalalala - description
+baseurl: /build4stl-jekyll-site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+highlighter: rouge
+# Build settings
+markdown: kramdown
+paginate: 5
