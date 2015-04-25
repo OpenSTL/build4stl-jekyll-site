@@ -14,7 +14,7 @@ url: http://opendatastl.github.io
 baseurl: /build4stl-jekyll-site
 twitter_username: build4stl
 github_username:  blordcastillo
-highlighter: rouge
+# highlighter: rouge
 # Build settings
 markdown: kramdown
 permalink: /:title/
