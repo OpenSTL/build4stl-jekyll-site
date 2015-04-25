@@ -2,7 +2,7 @@
 name: BuildForSTL
 title: BuildForSTL
 email: b@buildforstl.org
-description:New github hosted website for Build for STL
+description: New github hosted website for Build for STL
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://opendatastl.github.io
@@ -13,27 +13,14 @@ url: http://opendatastl.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: /build4stl-jekyll-site
 twitter_username: build4stl
-github_username:  jekyll
+github_username:  blordcastillo
 highlighter: rouge
 # Build settings
 markdown: kramdown
-paginate: 5
 permalink: /:title/
 version: v1.0.0
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  sass_dir: _scss
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-gems:
-  - jemoji # Emoji please!
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
 exclude:
     - Gemfile
-    - Gemfile.lock
-    - LICENSE
     - README.md
