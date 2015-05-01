@@ -19,6 +19,7 @@ github_username:  blordcastillo
 markdown: kramdown
 permalink: /:title/
 version: v1.0.0
+paginate: 5
 
 # Exclude these files from your production _site
 exclude:
