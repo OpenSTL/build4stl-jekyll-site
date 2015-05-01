@@ -8,4 +8,6 @@ Build4STL will include a technology and design volunteer fair on May 29th immedi
 
 Additionally, if you will be attending the Hackathon, the volunteer fair is a great way to start generating ideas about what apps, websites, or tools could help make St. Louis better.
 
-Space at the volunteer fair is free for non-profit organizations!
+Space at the volunteer fair is free for non-profit organizations! Please fill out this form so that we know to expect you:
+
+![Sign up for a table at the volunteer fair](https://docs.google.com/forms/d/1Caygkze45VdlFrZk7gYQkKil0b9PT3GcLJ7OnxlteIc/viewform)
