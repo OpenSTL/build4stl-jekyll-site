@@ -10,4 +10,4 @@ Additionally, if you will be attending the Hackathon, the volunteer fair is a gr
 
 Space at the volunteer fair is free for non-profit organizations! Please fill out this form so that we know to expect you:
 
-![Sign up for a table at the volunteer fair](https://docs.google.com/forms/d/1Caygkze45VdlFrZk7gYQkKil0b9PT3GcLJ7OnxlteIc/viewform)
+<iframe src="https://docs.google.com/forms/d/1Caygkze45VdlFrZk7gYQkKil0b9PT3GcLJ7OnxlteIc/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
