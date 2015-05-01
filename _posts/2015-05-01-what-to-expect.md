@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hack-a-thons: What to Expect and How to Prepare"
+categories: blog
 Author: Erin Richey
 ---
 ![2014 Winning Build4STL Team](https://pbs.twimg.com/media/BpEYAWFCUAArcyX.jpg)
