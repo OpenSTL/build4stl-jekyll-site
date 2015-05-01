@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open Source Brewathon Kickoff"
+title:  "Open Source Brewathon Results Tasting"
 categories: events
 ---
 
