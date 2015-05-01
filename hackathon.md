@@ -4,6 +4,8 @@ title: Hackathon
 permalink: /hackathon/
 ---
 
+![Hackathon](http://41.media.tumblr.com/a0d419c6b1cac732bde599ec34889c7a/tumblr_n6pkrbvEIG1tdvzm9o5_1280.jpg)
+
 The "Make St. Louis Better" Hackathon will take place May 29th-31st, 2015.
 
 The Hackathon is a creation sprint, in which teams will spend 48 hours building something that will make St. Louis a better place. The result can be software, applications, devices, art–anything that benefits the community. (The volunteer fair immediately preceding the Hackthon may help spark ideas!) Datasets and APIs will be available, and mentors will be on hand to help teams tackle their projects. Food and drink will be provided for the participants.
