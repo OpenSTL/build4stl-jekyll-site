@@ -6,6 +6,7 @@ Author: Erin Richey
 ![2014 Winning Build4STL Team](https://pbs.twimg.com/media/BpEYAWFCUAArcyX.jpg)
 
 Anyone who’s attended a hack-a-thon will know a little about the benefits of attending and how to get the most out of the 48 concentrated hours of work to come this weekend. But if you’ve never participated in a hack-a-thon before, you might not realize what a life-changing experience it can be, or you might be worried that your skills won’t be utilized in your team. Never fear: at a hack-a-thon, you’ll find lots of people with varying skill sets, eager to adopt a cause and work toward a solution.
+<!--break-->
 
 The first thing to keep in mind is that we encourage complete strangers to form teams together. We don’t want you to pursue a project you find less interesting just because you’ll be in a group with a friend. Last year, the team formation period began with an issue brainstorming session. Then we worked our way down the list of issues and signed up anyone who raised a hand to say it appealed to him or her. Issues with insufficient volunteers signed up were crossed off the list, and anyone committed to those issues was asked to commit to another issue. We ended up with four teams of people who barely knew each other, and they learned on the fly how to combine their complementary skills to create awesome final prototypes.
 
