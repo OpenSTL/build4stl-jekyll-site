@@ -8,6 +8,11 @@
 .site-avatar img {
   border-radius: 5px;
 }
+
+/* This will hide images on front page if desired
+
 .post-preview img {
   display: none;
-}
+} 
+
+*/
