@@ -7,6 +7,7 @@ categories: events
 ![Open Source Brewathon]({{site.baseurl}}/images/brewathon.png)
 
 Earthbound Beer is partnering with OpenDataSTL to celebrate open source licensing and collaborative brewing for the National Day of Civic Hacking. The partnership includes the release of an open source beer recipe, educational events, and a brewing contest.
+<!--break-->
 
 The first event will occur Monday, April 27 at Earthbound (2710 Cherokee St), where the brewers will showcase their equipment and techniques and answer questions about their open source brown ale recipe. Benjamin Siders, an Intellectual Property attorney at Lewis, Rice & Fingersh, will give a presentation about open source software, creative commons licensing and iterative development.
 
