@@ -3,6 +3,7 @@ layout: post
 title:  "Hack-a-thons: What to Expect and How to Prepare"
 Author: Erin Richey
 ---
+![2014 Winning Build4STL Team](https://pbs.twimg.com/media/BpEYAWFCUAArcyX.jpg)
 
 Anyone who’s attended a hack-a-thon will know a little about the benefits of attending and how to get the most out of the 48 concentrated hours of work to come this weekend. But if you’ve never participated in a hack-a-thon before, you might not realize what a life-changing experience it can be, or you might be worried that your skills won’t be utilized in your team. Never fear: at a hack-a-thon, you’ll find lots of people with varying skill sets, eager to adopt a cause and work toward a solution.
 
