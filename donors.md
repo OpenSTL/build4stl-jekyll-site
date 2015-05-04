@@ -4,11 +4,11 @@ title: Donors
 permalink: /donors/
 ---
 
-##Site  
+##Site Donors  
  * Unisys Application Modernization Center of Excellence
  * Greater Missouri Builders  
   
-##National Event Sponsors
+##National Event Team
  * [Code for America](http://www.codeforamerica.org/)
  * [SecondMuse](http://secondmuse.com/)
  * [NASA](http://www.nasa.gov/)
