@@ -4,7 +4,7 @@ title: Donors
 permalink: /donors/
 ---
 ##Platinum Sponsor
-[![Clearent]({{site.baseurl}}/images/AlternateClearentIPLogo.png "Platinum Sponsor Clearent"]](http://developer.clearent.com)  
+[![Clearent]({{site.baseurl}}/images/AlternateClearentIPLogo.png "Platinum Sponsor Clearent")](http://developer.clearent.com)  
 
 ##[555 Building](http://www.gmbhomes.com/commercial/docs/listing_details.asp?listingID=8336)  
  * [Unisys Application Modernization Center of Excellence](http://www.unisys.com/)
