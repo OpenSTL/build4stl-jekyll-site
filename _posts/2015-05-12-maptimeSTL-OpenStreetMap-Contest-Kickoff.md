@@ -6,7 +6,7 @@ categories: events
 
 Join us at the [May 12th maptimeSTL meetup](http://www.meetup.com/maptimeSTL/events/222435942/) to learn about [OpenStreetMap](https://www.openstreetmap.org) and kick off two friendly mapping competitions - complete with mappy trophies and bragging rights for an entire year!
 
-Can't make it to maptimeSTL in person? No problem! You can still take part in the competitions - and you can follow [@maptimeSTL](https://twitter.com/maptimestl) on twitter for updates and tips for beginner mappers. 
+Can't make it to maptimeSTL in person? No problem! As long as you live in the St. Louis area, you can still take part in the competitions - and you can follow [@maptimeSTL](https://twitter.com/maptimestl) on twitter for updates and tips for beginner mappers. 
 
 ### 1. Greatest Number of Edits
 
