@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hack-a-thons: What to Expect and How to Prepare"
+title:  "Avian Infographics Challenge (US Fish and Wildlife Service)"
 categories: challenges
 Author: Brett Lord-Castillo
 ---
