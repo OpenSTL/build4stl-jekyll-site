@@ -4,7 +4,7 @@ title:  "Avian Infographics Challenge (US Fish and Wildlife Service)"
 categories: challenges
 Author: Brett Lord-Castillo
 ---
-[Avian Infographics Challenge](http://hackforchange.org/challenges/avian-infographics/)  
+[See challenge on http://hackforchange.org](http://hackforchange.org/challenges/avian-infographics/)  
   
 ### Show and share migratory bird survey data to increase public awareness and promote support for wildlife conservation and management.  Create templates for dynamic graphics and maps using agency data.
 
