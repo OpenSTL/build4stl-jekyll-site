@@ -9,7 +9,7 @@ categories: events
   
 ###Site
 University of Missouri - St Louis  
-Social Sciences Building Room 202  
+[Social Sciences Building Room 202](/umsl-ssb/)  
   
 ###Time
 9 AM - 2 PM, Saturday, May 23rd, 2015  
