@@ -3,7 +3,7 @@ layout: post
 title:  "STL RetroJam"
 categories: events
 ---
-##Calling all 6th graders through new 10th graders who have an interest in website creation and design, computers, or St. Louis history!  
+####Calling all 6th graders through new 10th graders who have an interest in website creation and design, computers, or St. Louis history!  
   
 [Register Today!](http://ylcstl.formstack.com/forms/stl_retrojam)  
   
