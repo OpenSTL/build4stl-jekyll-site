@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hackathon
+title: Register
 permalink: /register/
 ---
 If you are attending the Hackathon or the Volunteer Fair (as a recruiting non-profit or potential volunteer), please register on [eventbrite](http://www.eventbrite.com/e/make-st-louis-better-hackathon-volunteer-fair-tickets-16945136359).  
