@@ -9,7 +9,8 @@ categories: events
   
 ###Site
 University of Missouri - St Louis  
-[Social Sciences Building Room 202](/umsl-ssb/)  
+[Social Sciences and Business Building Room 222](/umsl-ssb/)  
+Go to the second floor and look for the Build For STL Banner.  
   
 ###Time
 9 AM - 2 PM, Saturday, May 23rd, 2015  
@@ -22,6 +23,6 @@ OpenDataSTL is partnering with the Youth Learning Center (YLC) to host the first
 * Noon: Lunch (Pointer's Pizza)  
 * 2:00 PM: Pick Up
   
-You may use the adjacent parking garage when arriving and departing (Look for the RetroJam signs.)  
+You may park in the parking garage just to the south of the SSB Building.  
   
 {% include map.html latitude = '38.7109212' longitude = '-90.3116083' %}
