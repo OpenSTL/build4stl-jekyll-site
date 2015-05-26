@@ -9,10 +9,11 @@ categories: events
 Earthbound Beer is partnering with OpenDataSTL to celebrate open source licensing and collaborative brewing for the National Day of Civic Hacking. The partnership includes the release of an open source beer recipe, educational events, and a brewing contest.
 <!--break-->
 
-The first event will occur Monday, April 27 at Earthbound (2710 Cherokee St), where the brewers will showcase their equipment and techniques and answer questions about their open source brown ale recipe. Benjamin Siders, an Intellectual Property attorney at Lewis, Rice & Fingersh, will give a presentation about open source software, creative commons licensing and iterative development.
-
-The second event will occur Wednesday, May 27 at Earthbound, where brewers will submit their interpretations of the brown ale recipe for public and juried critique. Awards and prizes will be presented, and Earthbound will brew the winning recipe. All recipes will be collected and saved in a central repository.
-
+The event kicked off Monday, April 27 at Earthbound (2710 Cherokee St) with the release of the open source brown ale recipe and Benjamin Siders of Lewis, Rice & Fingersh (and home brewer) presenting on open source software, creative commons licensing and iterative development.  
+  
+Now comes the big finish.  
+Wednesday, May 27th, 7pm at Earthbound. Time for tasting and juding as home brewers from around the metro area submit their interpretations of the brown ale recipe for public and juried critique. Awards and prizes will be presented, and Earthbound will brew the winning recipe. All recipes will be collected and saved in a central repository.  
+  
 ##Open Source Brown Ale
 
 This recipe is a malt-forward brown ale that pairs dry roasty notes with a soft body. The belma hops provide aromas of fruit candy.
