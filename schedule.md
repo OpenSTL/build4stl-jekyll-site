@@ -1,3 +1,9 @@
+---
+layout: page
+title: Hackathon Schedule
+permalink: /schedule/
+---
+
 #Friday May 29th  
 ##555 Building, 555 Washington Ave  
   * 4pm - 6pm: Volunteer Fair - Floor 4.5  
