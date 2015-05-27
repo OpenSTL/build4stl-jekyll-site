@@ -4,7 +4,7 @@ title:  "Mapping Party for Critical Infrastructure (OSM-US)"
 categories: challenges
 Author: Brett Lord-Castillo
 ---
-[See challenge on http://hackforchange.org](http://hackforchange.org/challenges/detectarobo/)  
+[See challenge on http://hackforchange.org](http://hackforchange.org/challenges/mapping-party-for-critical-infrastrcture/)  
 
 ###Celebrate open mapping with a party, balloons, and GPS as you travel around your community to identify the critical infrastructure in your neighborhood.
   
