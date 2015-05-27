@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Avian Infographics Challenge (US Fish and Wildlife Service)"
+title: Avian Infographics Challenge (US Fish and Wildlife Service)
 categories: challenges
-Author: Brett Lord-Castillo
+Author: "Brett Lord-Castillo"
+published: true
 ---
+
 [See challenge on http://hackforchange.org](http://hackforchange.org/challenges/avian-infographics/)  
   
 ### Show and share migratory bird survey data to increase public awareness and promote support for wildlife conservation and management.  Create templates for dynamic graphics and maps using agency data.
@@ -13,7 +15,7 @@ Author: Brett Lord-Castillo
 Our goal is to connect with the conservation-minded public to increase their understanding of how we, the USFWS, use our data to make wildlife management decisions. The USFWS collects annual data about waterfowl populations across a large portion of the continent in order to set hunting regulations, and manage and conserve habitat. Currently, we make the survey data available in static tables, but data in this format are not easily accessible to conservation-minded citizens, including bird watchers, waterfowl hunters, and many of our biologist partners.
 
 * Government Agency: US Fish and Wildlife Service
-* Hashtags: #hackforchange, #surveybirds, #pilotbiologists
+* Hashtags: [#hackforchange](https://twitter.com/search?f=realtime&q=%23hackforchange) [#surveybirds](https://twitter.com/search?f=realtime&q=%23surveybirds) [#pilotbiologists](https://twitter.com/search?f=realtime&q=%23pilotbiologists)
 * Additional Point of Contact: Nathan Zimpfer: nathan_zimpfer@fws.gov
 
 ## CHALLENGE DESCRIPTION
