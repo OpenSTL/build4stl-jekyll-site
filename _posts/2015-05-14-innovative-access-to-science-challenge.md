@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Innovative Access to Scientific Reference Data (NIST)"
+title: Innovative Access to Scientific Reference Data (NIST)
 categories: challenges
-Author: Brett Lord-Castillo
+Author: "Brett Lord-Castillo"
+published: true
 ---
+
 [See challenge on http://hackforchange.org](http://hackforchange.org/challenges/innovative-access-to-scientific-reference-data/) 
   
 ###Data to a scientist is like water to a swimmer. They can’t get very far without it.  
@@ -19,8 +21,8 @@ Forensic investigators, biochemical engineers, environmental researchers, and ma
 With over 100 types of data available, however, finding exactly what you need quickly and easily can be challenging. NIST invites the civic hackathon community to develop innovative apps that aggregate and improve the usability of free NIST datasets and resources. There are no existing mobile or tablet applications designed for NIST scientific reference datasets. Help us put the power of data at experts’ fingertips even when they are in the lab or out in the field.  
   
 * Federal Agency: National Institute of Standards and Technology
-* Hashtag: #NISTDATA
-* Handle: @usnistgov
+* Hashtag: [#NISTDATA](https://twitter.com/search?q=%23NISTDATA)
+* Handle: [@usnistgov](https://twitter.com/usnistgov)
   
 ##CHALLENGE DESCRIPTION  
   
