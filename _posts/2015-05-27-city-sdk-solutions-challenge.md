@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "City SDK Data Solutions Challenge (US Census Bureau)"
+title: City SDK Data Solutions Challenge (US Census Bureau)
 categories: challenges
-Author: Brett Lord-Castillo
+Author: "Brett Lord-Castillo"
+published: true
 ---
+
 [See challenge on http://hackforchange.org](http://hackforchange.org/challenges/citysdk/)  
 
 ###Can you create an application leveraging the U.S. Census Bureau’s City SDK that addresses an integrated sustainability problem in your city? Integrated sustainability problems may include a mix of economic, environmental, social, cultural, and housing themes.
@@ -17,8 +19,8 @@ The Census Bureau has developed an open data software development kit (SDK) to e
 To learn more visit http://uscensusbureau.github.io/citysdk/index.html.
   
 * Government Agency: Census Bureau  
-* Hashtags and Tags: [#citySDK](https://twitter.com/search?q=citySDK) [#census](https://twitter.com/search?q=census)  
-* Twitter Handle: [@uscensusbureau](http://twitter.com/uscensusbureau)  
+* Hashtags and Tags: [#citySDK](https://twitter.com/search?q=%citySDK) [#census](https://twitter.com/search?q=census)  
+* Twitter Handle: [@uscensusbureau](https://twitter.com/search?q=%uscensusbureau)  
 * Additional Points of Contact: Jeff Meisel, Census Presidential Innovation Fellow, jeffrey.meisel@gsa.gov  
   
 ##CHALLENGE DESCRIPTION  
