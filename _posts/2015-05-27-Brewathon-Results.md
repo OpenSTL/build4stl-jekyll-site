@@ -14,7 +14,9 @@ The event kicked off Monday, April 27 at Earthbound (2710 Cherokee St) with the 
 Now comes the big finish.  
 Wednesday, May 27th, 7pm at Earthbound. Time for tasting and juding as home brewers from around the metro area submit their interpretations of the brown ale recipe for public and juried critique. Awards and prizes will be presented, and Earthbound will brew the winning recipe. All recipes will be collected and saved in a central repository.  
   
-##Open Source Brown Ale
+##Open Source Brown Ale  
+  
+![Open Source Brown Ale]({{site.baseurl}}/images/belma.png)
 
 This recipe is a malt-forward brown ale that pairs dry roasty notes with a soft body. The belma hops provide aromas of fruit candy.
 
