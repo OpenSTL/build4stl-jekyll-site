@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to OpenStreetMap (MapZen)"
+title:  "Introduction to OpenStreetMap (OSM-US)"
 categories: challenges
 Author: Brett Lord-Castillo
 ---
