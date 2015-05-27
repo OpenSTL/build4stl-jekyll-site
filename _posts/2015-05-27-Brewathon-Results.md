@@ -16,7 +16,7 @@ Wednesday, May 27th, 7pm at Earthbound. Time for tasting and juding as home brew
   
 ##Open Source Brown Ale  
   
-![Open Source Brown Ale]({{site.baseurl}}/images/belma.png)
+![Open Source Brown Ale]({{site.baseurl}}/images/belma.jpg)
 
 This recipe is a malt-forward brown ale that pairs dry roasty notes with a soft body. The belma hops provide aromas of fruit candy.
 
