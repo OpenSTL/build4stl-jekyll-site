@@ -1,9 +1,5 @@
 ---
 published: true
----
-
-
----
 layout: post
 title:  "Sunshine Law Request automation (OpenDataSTL/BTSTL)"
 categories: challenges
