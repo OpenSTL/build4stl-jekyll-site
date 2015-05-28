@@ -24,4 +24,4 @@ Much of this could be handled by the [MuckRock API](https://github.com/MuckRock/
 * [Better Together transparency report](http://www.bettertogetherstl.com/new-report-finds-widespread-lack-of-government-transparency)  
 * [MO Attorney General's Sunshine Law page](https://ago.mo.gov/missouri-law/sunshine-law)  
 * [Missouri Sunshine Coalition](http://missourisunshine.org/)  
-* [Missouri Sunshine Law at Ballotpedia](http://ballotpedia.org/Missouri_Sunshine_Law)  nter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+* [Missouri Sunshine Law at Ballotpedia](http://ballotpedia.org/Missouri_Sunshine_Law)  
