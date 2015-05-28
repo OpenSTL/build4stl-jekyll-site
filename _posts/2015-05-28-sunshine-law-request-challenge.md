@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title:  "Sunshine Law Request automation (OpenDataSTL/BTSTL)"
+title:  "Sunshine Law Request Automation (OpenDataSTL/BTSTL)"
 categories: challenges
 Author: Brett Lord-Castillo
 ---
