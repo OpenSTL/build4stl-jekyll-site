@@ -2,7 +2,9 @@
 layout: page
 title: Hackathon Schedule
 permalink: /schedule/
+published: true
 ---
+
 
 #Friday May 29th  
   
@@ -11,6 +13,7 @@ permalink: /schedule/
   * 4pm - 6pm: Volunteer Fair - Floor 4.5  
   * 6pm - 7pm: Food/Mixer in AMCOE space  
   * 7pm: Review of code of conduct, including site specific rules
+  * 7pm: Guest Speaker [Alexander Harris of Esri DC](https://www.linkedin.com/in/alexanderkoyamaharris)  
   * 7pm ~ 9pm: Project pitches in AMCOE meeting room space  
   * 9pm: Teams disperse to work spaces throughout 5th floor  
   * 10pm - 6am: Hard Lock on 6th street doors. Must call to get in.  
