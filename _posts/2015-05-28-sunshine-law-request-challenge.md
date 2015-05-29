@@ -28,6 +28,6 @@ Much of this could be handled by the [MuckRock API](https://github.com/MuckRock/
 * [MO Attorney General's Sunshine Law page](https://ago.mo.gov/missouri-law/sunshine-law)  
 * [Missouri Sunshine Coalition](http://missourisunshine.org/)  
 * [Missouri Sunshine Law at Ballotpedia](http://ballotpedia.org/Missouri_Sunshine_Law)
-* [Missouri Sunshine Law at MO General Assembly] (http://www.moga.mo.gov/mostatutes/chapters/chapText610.html)
+* [Missouri Sunshine Law at MO General Assembly](http://www.moga.mo.gov/mostatutes/chapters/chapText610.html)
 * [Missouri Sunshine Coalition](http://missourisunshine.org/)  
 * [Missouri Sunshine Law at Ballotpedia](http://ballotpedia.org/Missouri_Sunshine_Law)  
