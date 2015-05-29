@@ -1,3 +1,10 @@
+.map {
+  width: 20rem;
+  height: 15rem;
+}
+.map .olControlAttribution {
+  bottom: 0.1em;
+}
 .site-avatar {
   width: 70px;
   height: 70px;
