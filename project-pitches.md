@@ -13,7 +13,7 @@ permalink: /pitches/
  * Eleanor Tutt & Patrick Leonard - Who's on First Ward?  
 	Aldermanic vote tracking  
 	Text based interface to find alderperson based on address  
- * Kerigan Stone - Make programming more accessible  
+ * Korigan Stone - Make programming more accessible  
 	Using Google blockly (https://developers.google.com/blockly/)  
  * Marvin Park - Matching Volunteers with Charities  
 	Clearinghouse to match by time between charities and volunteers  
