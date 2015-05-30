@@ -12,7 +12,7 @@ permalink: /on-site-volunteers/
 | | | |  
 | 4pm-10pm | Brett  | 314-910-3318 |  
 | 4pm-12am | Jon   | 314-956-3221 |  
-| 4pm-12am | Eleanor  | 314-718-4088 |  
+| 4pm-11pm | Eleanor  | 314-718-4088 |  
   
 ##Saturday
   
