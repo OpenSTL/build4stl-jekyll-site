@@ -22,8 +22,8 @@ permalink: /pitches/
  * Jon Leek - Interactive Map of Missouri History Museum Photos  
 	Filter by location, year, topic, etc  
 	(Start with open source, but give to history museum to use on their collection)  
-	http://libguides.wustl.edu/c.php?g=47029&p=302292  
-	http://digital.wustl.edu/w/whi/gis.html  
+	[Sanborn at WUSTL](http://libguides.wustl.edu/c.php?g=47029&p=302292)  
+	[Unreal City](http://digital.wustl.edu/w/whi/gis.html)  
  * Nehemiah Dacres - Heat Warning Application  
 	(Hint: IPAWS-OPEN)  
 	Show location of nearest cooling or warming shelter when a heat warning or severe cold warning occurs  
