@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CIC Community Garden"
-categories: events
+categories: events, 2015
 ---
 
 Due to weather, this event was postponed to May 16th. We apologize for the inconvenience.

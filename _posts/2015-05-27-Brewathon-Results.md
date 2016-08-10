@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open Source Brewathon Results Tasting"
-categories: events
+categories: events, 2015
 ---
 
 ![Open Source Brewathon]({{site.baseurl}}/images/brewathon.png)

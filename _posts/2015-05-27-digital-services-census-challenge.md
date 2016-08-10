@@ -5,7 +5,7 @@ published: false
 ---
 layout: post
 title:  "Local Digital Services Census (US Census Bureau)"
-categories: challenges
+categories: challenges, 2015
 Author: Brett Lord-Castillo
 ---
 [See challenge on http://hackforchange.org](http://hackforchange.org/challenges/local-digital-services-census/)  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "STL RetroJam"
-categories: events
+categories: events, 2015
 ---
 ####Calling all 6th graders through new 10th graders who have an interest in website creation and design, computers, or St. Louis history!  
   

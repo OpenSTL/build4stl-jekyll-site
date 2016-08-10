@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Climate Change Risk Assessment Challenge (Coming soon)"
-categories: challenges
+categories: challenges, 2015
 Author: Brett Lord-Castillo
 ---
 (National challenge link coming soon.)  

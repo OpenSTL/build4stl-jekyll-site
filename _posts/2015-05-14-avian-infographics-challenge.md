@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avian Infographics Challenge (US Fish and Wildlife Service)
-categories: challenges
+categories: challenges, 2015
 Author: "Brett Lord-Castillo"
 published: true
 ---

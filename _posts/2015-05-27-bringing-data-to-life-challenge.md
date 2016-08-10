@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tobacco Use Data Interactive Visualizations: Bringing Data to Life (Centers for Disease Control)"
-categories: challenges
+categories: challenges, 2015
 Author: Brett Lord-Castillo
 ---
 [See challenge on http://hackforchange.org](http://hackforchange.org/challenges/bringing-data-to-life/)  

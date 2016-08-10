@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mapping Party for Critical Infrastructure (OSM-US)"
-categories: challenges
+categories: challenges, 2015
 Author: Brett Lord-Castillo
 ---
 [See challenge on http://hackforchange.org](http://hackforchange.org/challenges/mapping-party-for-critical-infrastrcture/)  

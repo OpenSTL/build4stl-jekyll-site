@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Analysis around Energy, Minerals, and Environmental Health (EMEH) (Coming Soon)"
-categories: challenges
+categories: challenges, 2015
 Author: Brett Lord-Castillo
 ---
 (National challenge link coming soon.)

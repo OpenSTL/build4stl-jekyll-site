@@ -1,7 +1,7 @@
 ---
 layout: post
 title: City SDK Data Solutions Challenge (US Census Bureau)
-categories: challenges
+categories: challenges, 2015
 Author: "Brett Lord-Castillo"
 published: true
 ---

@@ -2,7 +2,7 @@
 published: true
 layout: post
 title:  "Sunshine Law Request Automation (OpenDataSTL/BTSTL)"
-categories: challenges
+categories: challenges, 2015
 Author: Brett Lord-Castillo
 ---
 ###Make it easier to bring sunlight to Missouri's state and local governments  

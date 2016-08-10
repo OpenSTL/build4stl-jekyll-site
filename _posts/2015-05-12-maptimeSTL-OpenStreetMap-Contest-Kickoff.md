@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "maptimeSTL OpenStreetMap Mapping Competition Kickoff"
-categories: events
+categories: events, 2015
 ---
 
 Join us at the [May 12th maptimeSTL meetup](http://www.meetup.com/maptimeSTL/events/222435942/) to learn about [OpenStreetMap](https://www.openstreetmap.org) and kick off two friendly mapping competitions - complete with mappy trophies and bragging rights for an entire year!
