@@ -1,8 +1,8 @@
 # Site settings
 name: BuildForSTL
-title: BuildForSTL - St Louis' National Day of Civic Hacking
-email: b@buildforstl.org
-description: New github hosted website for Build for STL
+title: BuildForSTL - St Louis' National Day of Civic Hacking Event
+email: blordcastillo@gmail.com
+description: BuildForSTL - May 29th to 31st at 555 Washington Ave
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://buildforstl.org
