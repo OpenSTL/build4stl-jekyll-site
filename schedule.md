@@ -16,8 +16,6 @@ permalink: /schedule/
   * 12pm: LUNCH  
   * 4:15pm: Closing Ceremonies/Presentations
   * 5:30 - 8:00pm: Happy Hour @ Tech Astista
-  
------  
 
 
   
