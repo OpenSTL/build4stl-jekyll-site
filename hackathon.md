@@ -3,7 +3,7 @@ layout: page
 title: Hackathon
 permalink: /hackathon/
 ---
-###[Register Here!](http://www.eventbrite.com/e/make-st-louis-better-hackathon-volunteer-fair-tickets-16945136359)  
+###[Register Here!](https://www.meetup.com/Openstl/events/253087160/)  
 
 ![Hackathon](http://41.media.tumblr.com/a0d419c6b1cac732bde599ec34889c7a/tumblr_n6pkrbvEIG1tdvzm9o5_1280.jpg)
 
@@ -13,4 +13,4 @@ The Hackathon is a creation sprint, in which teams will spend 48 hours building 
 
 This year, our Build4STL Hackthon will not be a competition with prizes. We'll still have project pitches, teams formation, and team presentations - but the focus will be on providing space, data, mentors, and resources to help all teams build their best possible tools for St. Louis! We're also asking teams to open source the code they build over the weekend so that everyone can benefit. (Although we still encourage teams who want to create startups around their hackathon projects to continue after Build4STL in whatever way works best for them!)  
   
-###[Register Here!](http://www.eventbrite.com/e/make-st-louis-better-hackathon-volunteer-fair-tickets-16945136359)  
+###[Register Here!](https://www.meetup.com/Openstl/events/253087160/)  
