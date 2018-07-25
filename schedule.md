@@ -2,7 +2,6 @@
 layout: page
 title: Hackathon Schedule
 permalink: /schedule/
-
 -----
   
 #Saturday August 11th  
