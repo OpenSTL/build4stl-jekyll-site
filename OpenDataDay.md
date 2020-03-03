@@ -7,6 +7,7 @@ permalink: /ODD20/
 Welcome to OpenDataDay! [RSVP](https://www.meetup.com/Openstl/events/268639692/)
 
 When: March 7th 2020
+
 Where: [Launchcode Mentor Center](https://goo.gl/maps/CULz5KphXEN66HPm9)
 
 ## About
