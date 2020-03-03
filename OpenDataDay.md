@@ -10,7 +10,7 @@ Welcome to OpenDataDay!
 
    Open Data Day is an annual celebration of open data all over the world! It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society. Check out [OpenDataday.org](https://www.opendataday.org) for more info!
 
-## Agenda:
+### Agenda:
     9:00 am - Sign-in 
     9:30 am - Short introduction with Jon Leek and Shawn Moore
     10:00 am - Start Hacking!
@@ -18,7 +18,7 @@ Welcome to OpenDataDay!
     4:00 pm - Wrap up and start presentations and give out prizes!
     6:00 pm -  End!
     
-## Prizes: 
+### Prizes: 
 
     80$ worth of Amazon giftcards, Google nest mini, Set of 4 Tile keychains
 
@@ -48,17 +48,17 @@ Welcome to OpenDataDay!
 
 ## Datasets
 
-- Transit  
-    GTFS
-	- Reference: https://gtfs.org/
-	- Data: https://www.metrostlouis.org/developer-resources/
-- https://github.com/AvidDabbler/GTFSRT-parsing
+    Transit  
+        GTFS
+        - Reference: https://gtfs.org/
+        - Data: https://www.metrostlouis.org/developer-resources/
+        - https://github.com/AvidDabbler/GTFSRT-parsing
 
-Lidar Data (2017): ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/NED/LPC/projects/USGS_LPC_MO_StLouis_2017_LAS_2018/
+    Lidar Data (2017): ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/NED/LPC/projects/USGS_LPC_MO_StLouis_2017_LAS_2018/
 
-- Vacancy: 
-    - https://www.stlvacancy.com/methods--data.html
-    - HDMA: https://www.consumerfinance.gov/data-research/hmda/historic-data/
+    Vacancy: 
+        - https://www.stlvacancy.com/methods--data.html
+        - HDMA: https://www.consumerfinance.gov/data-research/hmda/historic-data/
 
 
 ## Recommended Tools!
