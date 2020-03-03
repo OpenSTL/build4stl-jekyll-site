@@ -41,36 +41,35 @@ Welcome to OpenDataDay!
     
 ### Rules
     * No limit to number of people per group. Team will split the prize.
-
     * Event will provide datasets. Participants are also welcomed to bring their own data. For participants who bring their own data, they need to be willing to share data on Github. 
 
 
 
 ## Datasets
 
-    Transit  
-        GTFS
-        - Reference: https://gtfs.org/
-        - Data: https://www.metrostlouis.org/developer-resources/
-        - https://github.com/AvidDabbler/GTFSRT-parsing
+Transit  
+    GTFS
+    - Reference: https://gtfs.org/
+    - Data: https://www.metrostlouis.org/developer-resources/
+    - https://github.com/AvidDabbler/GTFSRT-parsing
 
-    Lidar Data (2017): ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/NED/LPC/projects/USGS_LPC_MO_StLouis_2017_LAS_2018/
+Lidar Data (2017): ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/NED/LPC/projects/USGS_LPC_MO_StLouis_2017_LAS_2018/
 
-    Vacancy: 
-        - https://www.stlvacancy.com/methods--data.html
-        - HDMA: https://www.consumerfinance.gov/data-research/hmda/historic-data/
+Vacancy: 
+    - https://www.stlvacancy.com/methods--data.html
+    - HDMA: https://www.consumerfinance.gov/data-research/hmda/historic-data/
 
 
 ## Recommended Tools!
 
-    Visualization tools:
-        Tableau public account - https://public.tableau.com/en-us/s/
-        D3.js 
-        Python -- matplotlib
+Visualization tools:
+    Tableau public account - https://public.tableau.com/en-us/s/
+    D3.js 
+    Python -- matplotlib
 
-    Data Analysis Tools:
-        Python -- scipy, pandas, scikit-learn
-        R libraries
+Data Analysis Tools:
+    Python -- scipy, pandas, scikit-learn
+    R libraries
 
-    GIS tools:
-        Mapbox, turf.js, qgis, esri, OL-Kit(1904)
+GIS tools:
+    Mapbox, turf.js, qgis, esri, OL-Kit(1904)
