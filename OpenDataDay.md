@@ -6,6 +6,9 @@ permalink: /ODD20/
 
 Welcome to OpenDataDay! [RSVP](https://www.meetup.com/Openstl/events/268639692/)
 
+When: March 7th 2020
+Where: [Launchcode Mentor Center](https://goo.gl/maps/CULz5KphXEN66HPm9)
+
 ## About
 
    Open Data Day is an annual celebration of open data all over the world! It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society. Check out [OpenDataday.org](https://opendataday.org/) for more info!
