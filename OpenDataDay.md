@@ -4,7 +4,7 @@ title: OpenDataDay 2020
 permalink: /ODD20/
 ---  
 
-Welcome to OpenDataDay!
+Welcome to OpenDataDay! [RSVP-Here!](https://www.meetup.com/Openstl/events/268639692/)
 
 ## About
 
