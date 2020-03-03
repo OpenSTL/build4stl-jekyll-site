@@ -8,7 +8,7 @@ Welcome to OpenDataDay!
 
 ## About
 
-   Open Data Day is an annual celebration of open data all over the world! It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society. Check out [OpenDataday.org](https://www.opendataday.org) for more info!
+   Open Data Day is an annual celebration of open data all over the world! It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society. Check out [OpenDataday.org](https://opendataday.org/) for more info!
 
 ### Agenda:
 9:00 am - Sign-in
