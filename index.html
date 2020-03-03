@@ -3,24 +3,6 @@ layout: default
 title: Home
 ---
 
-<p>Build For STL includes an entire month of civic hacking, culminating in a weekend hackathon August 11, 2018.</p>
-<p>Build For STL is the St. Louis National Day of Civic Hacking event, organized by <a href="http://openstl.org" target="_blank">OpenSTL</a>.</p>
+<p>Build For STL is a event series powered by <a href="http://openstl.org" target="_blank">OpenSTL</a></p>
+<p>Our main events include OpendDataDay and National Day of Civic Hacking. Stay tuned for more info!</p>
 
-<div class="posts">
-{% for post in site.categories.blog %}
-  <div class="post post-preview">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content | split:'<!--break-->' | first }}
-    {% if post.content contains '<!--break-->' %}
-      <a href="{{ post.url }}">read more</a>
-    {% endif %}
-  </div>
-  {% endfor %}
-</div>

@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Hackathon Schedule
-permalink: /schedule/
+# layout: page
+# title: Hackathon Schedule
+# permalink: /schedule/
 
 -----
   
@@ -15,7 +15,9 @@ permalink: /schedule/
   * 10am - 4pm: Work Session!  
   * 12pm: LUNCH  
   * 4:15pm: Closing Ceremonies/Presentations
-  * 5:30 - 8:00pm: Happy Hour @ Tech Astista
+  * 5:30pm: Happy Hour @ Tech Astista
+  
+-----  
 
 
   

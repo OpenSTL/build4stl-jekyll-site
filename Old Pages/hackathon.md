@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Hackathon
-permalink: /hackathon/
+# layout: page
+# title: Hackathon
+# permalink: /hackathon/
 ---
 ###[Register Here!](https://www.meetup.com/Openstl/events/253087160/)  
 
