@@ -4,7 +4,7 @@ title: Code of Conduct
 ---
 The most recent version of this code of conduct and the codes of conduct for specific CfA online venues are available at <a href="https://github.com/codeforamerica/codeofconduct">https://github.com/codeforamerica/codeofconduct</a>.
 
-####Code for America's Code of Conduct
+#### Code for America's Code of Conduct
 
 The Code for America community expects that Code for America network activities, events, and digital forums:
 
@@ -50,7 +50,7 @@ You can also contact Code for America about harassment at <a href="mailto:safesp
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
 
-####Email Template for Anti-Harassment Reporting
+#### Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
