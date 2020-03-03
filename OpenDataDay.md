@@ -10,7 +10,7 @@ Welcome to OpenDataDay!
 
    Open Data Day is an annual celebration of open data all over the world! It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society. Check out [OpenDataday.org](https://www.opendataday.org) for more info!
 
-   #### Agenda:
+   ### Agenda:
         9:00 am - Sign-in 
         9:30 am - Short introduction with Jon Leek and Shawn Moore
         10:00 am - Start Hacking!
@@ -18,7 +18,7 @@ Welcome to OpenDataDay!
         4:00 pm - Wrap up and start presentations and give out prizes!
         6:00 pm -  End!
     
-   #### Prizes: 
+   ### Prizes: 
 
         80$ worth of Amazon giftcards, Google nest mini, Set of 4 Tile keychains
 
@@ -39,7 +39,7 @@ Welcome to OpenDataDay!
                 * Annotation - End product contains meaningful annotation to provide context to help the audience understand the data.
                 * Aesthetics - End product has visual appeal. 
     
-   #### Rules
+   ### Rules
         * No limit to number of people per group. Team will split the prize.
 
         * Event will provide datasets. Participants are also welcomed to bring their own data. For participants who bring their own data, they need to be willing to share data on Github. 
