@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Project Pitches
-permalink: /pitches/
+# layout: page
+# title: Project Pitches
+# permalink: /pitches/
 ---
  * Better Together STL - Automated Sunshine Law Requests  
  * Nehemiah Dacres - Open Source Tax Filing software  
