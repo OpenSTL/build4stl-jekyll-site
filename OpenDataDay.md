@@ -23,7 +23,7 @@ Welcome to OpenDataDay!
 80$ worth of Amazon giftcards, Google nest mini, Set of 4 Tile keychains!
 
     We will be judging based on three categories:
-        1. Data Analysis
+        1. _Data Analysis_
             * Pattern & relationship discovery - End product demonstrates discovery of pattern and/or relationship in the dataset.
 
             * Critical thinking - End product dives deeper into the dataset (e.g. investigate outliers), author(s) considered the dataset from multiple perspectives.
@@ -32,14 +32,14 @@ Welcome to OpenDataDay!
 
             * Statistical rigor - Author(s) understands assumptions made about dataset and/or statistical methods. Appropriate statistical methods are applied for the problem.
 
-        2. Story Telling
+        2. _Story Telling_
             * Meaningfulness to target audience - End product identified a target audience. Presentation is considered from target audiences' point of view.
 
             * Narrative - End product guides readers through a narrative to arrive to a conclusion.
 
             * Engagement - End product teaches viewers something new, gives them a new perspective and/or inspire them to take action.
 
-        3. Design
+        3. _Design_
             * Use of visual cues - End product makes use of strong visual cues (e.g. dollar sign, skull, abstract shapes, colors) to indicate qualities.
 
             * Use of visual hierarchy - End product design uses visual hierarchy (e.g. bold colors, sizes) to ensure important information stands out.
