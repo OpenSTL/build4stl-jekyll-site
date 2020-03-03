@@ -45,7 +45,7 @@ We will be judging based on three categories:
 
     * Engagement - End product teaches viewers something new, gives them a new perspective and/or inspire them to take action.
 
-3. Design
+3. __Design__
     * Use of visual cues - End product makes use of strong visual cues (e.g. dollar sign, skull, abstract shapes, colors) to indicate qualities.
 
     * Use of visual hierarchy - End product design uses visual hierarchy (e.g. bold colors, sizes) to ensure important information stands out.
