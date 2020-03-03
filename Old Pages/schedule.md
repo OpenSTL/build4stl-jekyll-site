@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Hackathon Schedule
-permalink: /schedule/
+# layout: page
+# title: Hackathon Schedule
+# permalink: /schedule/
 
 -----
   

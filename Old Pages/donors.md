@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Donors
-permalink: /donors/
+# layout: page
+# title: Donors
+# permalink: /donors/
 ---  
 
 ##[555 Building](http://www.gmbhomes.com/commercial/docs/listing_details.asp?listingID=8336)  

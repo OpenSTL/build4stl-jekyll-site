@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Hackathon
-permalink: /hackathon/
+# layout: page
+# title: Hackathon
+# permalink: /hackathon/
 ---
 ###[Register Here!](http://www.eventbrite.com/e/make-st-louis-better-hackathon-volunteer-fair-tickets-16945136359)  
 

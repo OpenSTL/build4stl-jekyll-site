@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Event Sites
-permalink: /where/
+# layout: page
+# title: Event Sites
+# permalink: /where/
 ---
 
 Thanks to all our generous donors and partners who have provided our event sites this year!  

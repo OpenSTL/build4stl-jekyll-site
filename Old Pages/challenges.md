@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Challenges
-permalink: /challenges/
+# layout: page
+# title: Challenges
+# permalink: /challenges/
 ---
 Anyone can participate in Build for STL! You don’t have to be an expert in technology, you just have to care about your community.
 
